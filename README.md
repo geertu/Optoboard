@@ -23,3 +23,6 @@ Noteworthy slides:
   - Slide 40-42 show the "software setup".
 
 License: CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+PCB and parts can be ordered at https://aisler.net/geert/optoboard/main-pcb
+(Disclaimer: I'm not affiliated to AISLER)
