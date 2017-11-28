@@ -45,3 +45,17 @@ For i2c cables:
   - 4-pin housings, RM 2mm, e.g. JST PHR-4
   - Crimp contacts, e.g. JST 800113
   - Wire
+
+Connector pinouts:
+  - P1 / P2: I2C input and output (for daisy-chaining)
+      1. GND
+      2. +3.3V
+      3. SDA
+      4. SCL
+    Note: Pin order is similar to the Seeed Studio Grove and SparkFun Qwiic
+          Connect systems, although the connector used is different (you can
+	  probably mount a real Grove connector instead).
+
+  - P3:
+      1-15 (odd pins): Opto-isolator emitter ("negative output")
+      2-16 (even pins): Opto-isolator collector ("positive output")
