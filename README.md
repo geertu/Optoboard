@@ -24,7 +24,7 @@ Noteworthy slides:
 
 License: CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-PCB and parts can be ordered at https://aisler.net/geert/optoboard/main-pcb
+PCB and parts can be ordered at https://aisler.net/geert/optoboard/optoboard
 (Disclaimer: I'm not affiliated to AISLER)
 
 Bill Of Materials:
